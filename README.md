@@ -1,3 +1,7 @@
+# ⛔️ **DEPRECATED** — do not use for new projects
+
+See [our current docs](https://docs.apostrophecms.org/)
+
 # A2 utility task to export schemas to A3 format
 
 A command line task running in an A2 module that can "see" all of the schemas for all of the defined doc and widget types, their sub-array and object fields, et cetera.
